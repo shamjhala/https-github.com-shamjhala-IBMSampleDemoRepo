@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="2450" started-at="2020-07-22T15:54:50 ADT" finished-at="2020-07-22T15:54:53 ADT">
+  <suite name="Default suite" duration-ms="2657" started-at="2020-07-25T18:02:37 ADT" finished-at="2020-07-25T18:02:39 ADT">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="2450" started-at="2020-07-22T15:54:50 ADT" finished-at="2020-07-22T15:54:53 ADT">
+    <test name="Default test" duration-ms="2657" started-at="2020-07-25T18:02:37 ADT" finished-at="2020-07-25T18:02:39 ADT">
       <class name="ToolsQA.APITestingFramework.SimpleGetTest">
-        <test-method status="FAIL" signature="GetWeatherDetails()[pri:0, instance:ToolsQA.APITestingFramework.SimpleGetTest@7494e528]" name="GetWeatherDetails" duration-ms="2376" started-at="2020-07-22T15:54:50 ADT" finished-at="2020-07-22T15:54:53 ADT">
+        <test-method status="FAIL" signature="GetWeatherDetails()[pri:0, instance:ToolsQA.APITestingFramework.SimpleGetTest@7d0587f1]" name="GetWeatherDetails" duration-ms="2519" started-at="2020-07-25T18:02:37 ADT" finished-at="2020-07-25T18:02:39 ADT">
           <exception class="java.net.UnknownHostException">
             <message>
               <![CDATA[restapi.demoqa.com]]>

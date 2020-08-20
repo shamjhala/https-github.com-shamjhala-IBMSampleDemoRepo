@@ -18,6 +18,7 @@ public class E2E_Tests {
         String password = "Test@@123";
         String baseUrl = "https://bookstore.toolsqa.com";
 
+        
         RestAssured.baseURI = baseUrl;
         RequestSpecification request = RestAssured.given();
 
